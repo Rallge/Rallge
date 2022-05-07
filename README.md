@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rallge
-- 👀 I’m interested in JS
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning JS, PHP and GO.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
